@@ -1,0 +1,21 @@
+.list-movies{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.App{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.card-movies{
+   border: 1px solid #ddd;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-movies h3{
+  margin-top: 0;
+}
